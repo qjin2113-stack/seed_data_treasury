@@ -1,0 +1,8 @@
+{
+  "symbol": ["US_PUBLIC_DEBT"],
+  "description": ["US Debt Held by the Public (Daily Treasury)"],
+  "pricescale": [1],
+  "type": ["economic"],
+  "session": ["24x7"],
+  "timezone": ["America/New_York"]
+}
